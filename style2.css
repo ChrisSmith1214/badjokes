@@ -1,0 +1,13 @@
+title{
+    text-align="center"
+}
+
+body{
+    font-family: sans-serif;
+    /*margin-left: 400px;*/
+    margin:0 auto;
+}
+h1{
+    font-size: 55px;
+    color:#FF0000;
+}
